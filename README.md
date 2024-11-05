@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # One-dimensional quantum bound states from multiple Dirac-delta potentials
 This project introduces a Python program designed to simulate a one-dimensional quantum system with an array of multiple Dirac delta potentials. The primary objective of the code is to find bound states and eigenenergies within this setup. 
 ## Simulation 
