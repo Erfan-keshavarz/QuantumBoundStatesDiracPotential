@@ -11,7 +11,7 @@ Simmulation covers 2 main aspects:
 
 
 ## Usage 
-The Jupyter Notebook in this repository has a comprehensive simulation, including scientific computations using both numerical and analytical approaches, as well as additional visualizations. You may either run the notebook locally to repeat the simulation or adapt it to meet your own requirements.
+The Jupyter Notebook in this repository has a comprehensive simulation, including scientific computations using  numerical approaches, as well as additional visualizations. You may either run the notebook locally to repeat the simulation or adapt it to meet your own requirements.
 
 ## Dependencies 
 
